@@ -11,14 +11,10 @@
             "id": "e624db8179d2892c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZZH/obsidian.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "obsidian"
+              "title": "新标签页"
             }
           }
         ]
