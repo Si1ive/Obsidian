@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "aae96fff8078242e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74743e26726c6b0d",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Mind Map of 边界增强"
+            }
+          }
+        ]
+      },
+      {
         "id": "4ff5da76516bfef0",
         "type": "tabs",
         "children": [
