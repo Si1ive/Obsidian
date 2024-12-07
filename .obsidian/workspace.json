@@ -14,7 +14,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of 边界增强"
+              "title": "Mind Map of 实验"
             }
           }
         ]
@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep learning/边界增强.md",
+                "file": "Deep learning/实验.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "边界增强"
+              "title": "实验"
             }
           }
         ]
@@ -177,6 +177,9 @@
   },
   "active": "e624db8179d2892c",
   "lastOpenFiles": [
+    "Deep learning/邮件.md",
+    "Deep learning/实验.md",
+    "Deep learning/边界增强.md",
     "Deep learning/差异关联.md",
     "Deep learning/复试.md",
     "Deep learning/环境配置.md",
@@ -186,9 +189,7 @@
     "Deep learning/Code.md",
     "Deep learning/Vmamba配置.md",
     "Deep learning/Mamba原理.md",
-    "Deep learning/邮件.md",
     "Deep learning/特征处理方式.md",
-    "Deep learning/边界增强.md",
     "Deep learning/案板.md",
     "ZZH/obsidian.md",
     "欢迎.md",
