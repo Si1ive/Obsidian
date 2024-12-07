@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "aae96fff8078242e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "74743e26726c6b0d",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mind Map of 实验"
-            }
-          }
-        ]
-      },
-      {
         "id": "4ff5da76516bfef0",
         "type": "tabs",
         "children": [
@@ -93,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7a18cbf17f25a8c8",
