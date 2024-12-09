@@ -1,4 +1,5 @@
-# 字段类型
+# Mysql
+## 字段类型
 
 ### char与varchar
 
@@ -17,7 +18,7 @@ DateTime表示的范围大，占用字节多，不具备时区信息
 TimeStamp表示范围小，占用字节少，具备时区信息，切换时区时会跟着变，但变得过程有性能消耗
 
 按数值存储时间戳 不能使用时间数据类型的api，难以阅读
-## Mybatis
+# Mybatis
 @TableName("db_account") 指定实体类对应的表名
 
 @TableId(type = IdType.AUTO) 指定主键
