@@ -1,4 +1,4 @@
-语法糖
+# 语法糖
 
 - string... str 就等于 String str[]
 - assert 断言 assert a==b 错误直接在此处抛出异常
