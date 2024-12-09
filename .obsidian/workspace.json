@@ -159,11 +159,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4a9cda95c4d0789b",
   "lastOpenFiles": [
+    "新建文本文档.txt",
     "Deep learning/Mamba原理.md",
     "Deep learning/案板.md",
     "Deep learning/环境配置.md",
