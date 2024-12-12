@@ -12,4 +12,4 @@
 	1. 卷积的偏置只有结合BN时才False
 ## Version6
 1. 修改AFF中的tanh激活函数，tanh更适合序列任务，更替为sigmoid更适合图像的二分类任务
-	1. 取值0-1，将
+	1. 取值0-1，A设定为1-sigmoid，B设定为sigmoid
