@@ -1,3 +1,6 @@
+# 超算
+1. 102987 dims 64 batchsize 128
+2. 
 # Version
 ## Version5
 1. 模型中的参数量分布不够合理
