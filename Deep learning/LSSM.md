@@ -1,5 +1,5 @@
 # 超算
-1. 103041 dims 64 batchsize 128 v5
+1. 103041 dims 64 batchsize 128 v5 改了lap的融合方式，没改LN和
 	1.F1 81 到第24轮之后就不涨了
 1. 
 # Version
