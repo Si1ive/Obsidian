@@ -1,9 +1,9 @@
-# 超算
+# ST
 1. 103041 dims 64 batchsize 128 v5 改了lap的融合方式，没改LN和DDB卷积，AFF激活
 	1.F1 81 到第24轮之后就不涨了
 2. 103140 跟10341版本一样，lr提升了10.7倍，再跑一次
 3. 103144 1485 v6 batchsize 12 
-4. 
+4. 103145 1577 v6 batchsize 128 lr
 # Version
 ## Version5
 1. 模型中的参数量分布不够合理
