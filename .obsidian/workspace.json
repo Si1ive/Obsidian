@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#把A",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e624db8179d2892c",
+  "active": "e55d991e2312032d",
   "lastOpenFiles": [
     "计算机/指令.md",
     "Deep learning/LSSM.md",

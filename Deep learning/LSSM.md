@@ -28,7 +28,20 @@ BN和DDB的卷积是好是坏不清楚，整体几乎没有变，整体找最优
 		3. 修改跳接方式
 	2. 拿掉DDB
 	3. 
-	
+
+主线，执行VSS  
+当AFF为None时，就是解码层第一层，主线和分支都用ABfuse,若不为None，主线用上一层的AFF结果，分支用ABfuse  
+  
+原本的设计中，当经过第一层解码层后，传入vssb的就是aff后的结果，不再与AB进行跳接，跳接就单独放在Laplce中，Laplace将通道数压到了1，特征信息变少了  
+跳接的设计不能丢，跳接应该保留在主干网络中  
+AFF,A,B如何融合，  
+ 1.能不能把AFF拓展到三个融合  
+ 2.看看其他网络跳接是怎么处理的  
+     AERNET就是单纯的cat然后归一激活甚至就一轮，融合之后跟解码层核心处理完后再一个跳接  
+     ConMamba不带跳接  
+     changemamba中引入三个vssb处理  
+  把A,B,AFFOUT，融合经过VSSB和AFFOUT经过VSSB然后跟AB融合进行对比
+
 # Version
 ## Version1
 1. 训练到49轮左右时lr迭代到了1e-5，得分提升了  
