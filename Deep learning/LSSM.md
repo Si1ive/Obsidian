@@ -98,3 +98,4 @@ AFF,A,B如何融合，
 	2. AFFout时，三者融合
 	3. 融合完都经过一个convsmall，不再区分有没有AFFout
 		1. 融合模块单独拿出来写，因为融合完要给DoG提边缘
+		2. SENet
