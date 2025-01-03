@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep learning/LSSM.md",
+                "file": "Deep learning/Vmamba配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSSM"
+              "title": "Vmamba配置"
             }
           }
         ]
@@ -162,9 +162,9 @@
   },
   "active": "e624db8179d2892c",
   "lastOpenFiles": [
-    "Deep learning/论文.md",
     "Deep learning/LSSM.md",
     "Deep learning/Mamba原理.md",
+    "Deep learning/论文.md",
     "计算机/指令.md",
     "Deep learning/边界增强.md",
     "Deep learning/差异关联.md",
