@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep learning/Vmamba配置.md",
+                "file": "Deep learning/LSSM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vmamba配置"
+              "title": "LSSM"
             }
           }
         ]
@@ -160,11 +160,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e60181f3b358eaca",
+  "active": "e624db8179d2892c",
   "lastOpenFiles": [
+    "Deep learning/Vmamba配置.md",
     "Deep learning/LSSM.md",
     "计算机/指令.md",
-    "Deep learning/Vmamba配置.md",
     "Deep learning/Mamba原理.md",
     "Deep learning/论文.md",
     "Deep learning/边界增强.md",
