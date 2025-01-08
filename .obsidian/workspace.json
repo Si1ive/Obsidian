@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep learning/Code.md",
+                "file": "Deep learning/Vmamba配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code"
+              "title": "Vmamba配置"
             }
           }
         ]
@@ -162,6 +162,8 @@
   },
   "active": "e624db8179d2892c",
   "lastOpenFiles": [
+    "Deep learning/LSSM.md",
+    "Deep learning/Code.md",
     "Deep learning/异源.md",
     "Deep learning/特征融合.md",
     "Deep learning/特征处理方式.md",
@@ -175,7 +177,6 @@
     "计算机/指令.md",
     "Deep learning/Vmamba配置.md",
     "Deep learning/Mamba原理.md",
-    "Deep learning/LSSM.md",
     "Deep learning/差异关联.md",
     "conflict-files-obsidian-git.md",
     "计算机",
@@ -189,7 +190,6 @@
     "开发/Mysql.md",
     "开发/JAVA笔记.md",
     "开发",
-    "Deep learning/Code.md",
     "Deep learning/案板.md",
     "ZZH"
   ]
