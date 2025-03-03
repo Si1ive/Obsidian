@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/数据检索.md",
+                "file": "Deep learning/LSSM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据检索"
+              "title": "LSSM"
             }
           }
         ],
@@ -178,8 +178,8 @@
   },
   "active": "adff27581ffdd78b",
   "lastOpenFiles": [
-    "Deep learning/LSSM.md",
     "工作/数据检索.md",
+    "Deep learning/LSSM.md",
     "工作",
     "Deep learning/Mamba原理.md",
     "Deep learning/Code.md",
