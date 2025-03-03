@@ -16,7 +16,8 @@ edss：局部
 EDSS怎么补充局部了
 
  不把VSS当作解码器，VSS，EDSS都当解码器，让EDSS找差异特征，把VSS改改补全局部特征
- 这样画图更规整，
+ 这样画图更规整，把SS都改成Mamba BLOCK
+ 然后主图中画三个mamba Block的略suo
 
 	第二张图要体现出融合 分离的点
 # BUG 
