@@ -18,7 +18,7 @@ EDSS怎么补充局部了
  不把VSS当作解码器，VSS，EDSS都当解码器，让EDSS找差异特征，把VSS改改补全局部特征
  这样画图更规整，把SS都改成Mamba BLOCK
  然后主图中画三个mamba Block的略缩图,这三个略所图不好画啊
- 编码器改成这样题目也要动 轻量级 U型 适应性Mamba adpat with edge and
+ 编码器改成这样题目也要动 轻量级 U型 适应性Mamba adpat with edge and 局部 这样的话 Umamba前面那个前缀也要改，
 
 	第二张图要体现出融合 分离的点
 # BUG 
