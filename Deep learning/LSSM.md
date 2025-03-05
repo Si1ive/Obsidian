@@ -20,7 +20,7 @@ EDSS怎么补充局部了
  然后主图中画三个mamba Block的略缩图,这三个略所图不好画啊
  编码器改成这样题目也要动 轻量级 U型 适应性Mamba adpat with edge and 局部 这样的话 Umamba前面那个前缀也要改，
 
-我想用更好的变化检测这种，一个轻量级U型Adpat-Mamba for 
+我想用更好的变化检测这种，一个轻量级U型 Adpat-Mamba for 
 
 	第二张图要体现出融合 分离的点
 # BUG 
