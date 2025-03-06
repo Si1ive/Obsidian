@@ -21,7 +21,7 @@ EDSS怎么补充局部了
  编码器改成这样题目也要动 轻量级 U型 适应性Mamba adpat with edge and 局部 这样的话 Umamba前面那个前缀也要改，
 
 我想用更好的变化检测这种，一个轻量级U型 Adpat-Mamba for 
-
+如何画略suo'tu
 
 
 	第二张图要体现出融合 分离的点
