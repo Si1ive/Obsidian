@@ -20,35 +20,8 @@
               "icon": "lucide-file",
               "title": "LSSM"
             }
-          },
-          {
-            "id": "adff27581ffdd78b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep learning/LSSM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LSSM"
-            }
-          },
-          {
-            "id": "211b069862556024",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +162,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "211b069862556024",
+  "active": "e624db8179d2892c",
   "lastOpenFiles": [
     "工作/数据检索.md",
     "Deep learning/LSSM.md",
