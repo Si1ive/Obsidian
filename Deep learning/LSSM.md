@@ -20,11 +20,13 @@ EDSS怎么补充局部了
 	2. Prechange不合适
 	3. integrate 应该是integration
 	4. First order是否严谨
-	5. Edge这么结尾不太合适
+	5. Edge这么结尾不太合适，图中的Second-order Edge block也不合适，没动词
 	6. 叫multi-scale不合适，应该是level 或者attention
 	7. 应该把MultiD也去掉，图中不体现
 2. 双时图中体现的不明显，老师倾向于分离合并，如果起这个，那应该把线画的更明显点
-3. 
+3. mamba取黄色，左边就不应该是黄色
+
+
 # BUG 
 1. V4版本 预测值全变成了0  
 	解决：清梯度，损失函数有问题，修改了损失函数，增加了清缓存
