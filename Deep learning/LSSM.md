@@ -19,7 +19,12 @@ EDSS怎么补充局部了
 	1. 保持一致，比如模块名都落到名词上
 	2. Prechange不合适
 	3. integrate 应该是integration
-	4. 
+	4. First order是否严谨
+	5. Edge这么结尾不太合适
+	6. 叫multi-scale不合适，应该是level 或者attention
+	7. 应该把MultiD也去掉，图中不体现
+2. 双时体现不出来
+3. 
 # BUG 
 1. V4版本 预测值全变成了0  
 	解决：清梯度，损失函数有问题，修改了损失函数，增加了清缓存
