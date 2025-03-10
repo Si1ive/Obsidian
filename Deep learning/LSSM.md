@@ -16,14 +16,16 @@ edss：局部
 EDSS怎么补充局部了
 
 1. 用词问题
-	1.  
-	2. 保持一致，比如模块名都落到名词上
-	3. Prechange不合适
-	4. integrate 应该是integration
-	5. First order是否严谨
-	6. Edge这么结尾不太合适，图中的Second-order Edge block也不合适，没动词
-	7. 叫multi-scale不合适，应该是level 或者attention
-	8. 应该把MultiD也去掉，图中不体现
+	1.  effective不能用去掉
+	2. Task-apdated不合适，因为暗含自适应，引导比较合适
+	3. Mutli-Task前缀能不能加，会不会有歧义
+	4. 保持一致，比如模块名都落到名词上
+	5. Prechange不合适
+	6. integrate 应该是integration
+	7. First order是否严谨
+	8. Edge这么结尾不太合适，图中的Second-order Edge block也不合适，没动词
+	9. 叫multi-scale不合适，应该是level 或者attention
+	10. 应该把MultiD也去掉，图中不体现
 2. 双时图中体现的不明显，老师倾向于分离合并，如果起这个，那应该把线画的更明显点
 3. mamba取黄色，左边就不应该是黄色
 
