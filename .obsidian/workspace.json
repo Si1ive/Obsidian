@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7a18cbf17f25a8c8",
@@ -164,13 +163,13 @@
   },
   "active": "e624db8179d2892c",
   "lastOpenFiles": [
+    "Deep learning/Mamba原理.md",
+    "Deep learning/LSSM.md",
+    "Deep learning/Vmamba配置.md",
     "Pasted image 20250309091835.png",
     "工作/数据检索.md",
-    "Deep learning/LSSM.md",
     "工作",
-    "Deep learning/Mamba原理.md",
     "Deep learning/Code.md",
-    "Deep learning/Vmamba配置.md",
     "Deep learning/异源.md",
     "Deep learning/特征融合.md",
     "Deep learning/特征处理方式.md",
