@@ -51,7 +51,7 @@ EDSS怎么补充局部了
 0 1 0 俩都去掉
 0 2 0 留channel
 0 3 0 留spatial
-
+1 0 0
 
 
 # BUG 
