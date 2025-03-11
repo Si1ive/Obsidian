@@ -30,7 +30,7 @@ EDSS怎么补充局部了
 3. mamba取黄色，左边就不应该是黄色
 
 E. Other Network Details
-讲一个AF
+讲一个AFF class 损失
 
 实验怎么做
 1. 先把代码改好，留不留调整的口，根据消融实验留参数接口
