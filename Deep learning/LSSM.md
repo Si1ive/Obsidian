@@ -31,8 +31,8 @@ EDSS怎么补充局部了
 	2. **Task-apdated不合适，因为暗含自适应，引导比较合适**
 	3. **Mutli-Task前缀能不能加，会不会有歧义**
 	4. 保持一致，比如模块名都落到名词上
-	5. Prechange不合适
-	6. integrate 应该是integration
+	5. **Prechange不合适**
+	6. **integrate 应该是integration**
 	7. First order是否严谨  # **First-order Derivative operators Second-order derivative operators**
 	8. Edge这么结尾不太合适，图中的Second-order Edge block也不合适，没动词 
 	9. 叫multi-scale不合适，应该是level 或者attention
