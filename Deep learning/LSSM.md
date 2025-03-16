@@ -34,7 +34,7 @@ EDSS怎么补充局部了
 	5. Prechange不合适
 	6. integrate 应该是integration
 	7. First order是否严谨  # **First-order Derivative operators Second-order derivative operators**
-	8. Edge这么结尾不太合适，图中的Second-order Edge block也不合适，没动词
+	8. Edge这么结尾不太合适，图中的Second-order Edge block也不合适，没动词 
 	9. 叫multi-scale不合适，应该是level 或者attention
 	10. 应该把MultiD也去掉，图中不体现
 9. 双时图中体现的不明显，老师倾向于分离合并，如果起这个，那应该把线画的更明显点
