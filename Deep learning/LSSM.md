@@ -27,9 +27,9 @@ EDSS怎么补充局部了
 
 
 8. 用词问题
-	1.  effective不能用去掉
-	2. Task-apdated不合适，因为暗含自适应，引导比较合适
-	3. Mutli-Task前缀能不能加，会不会有歧义
+	1.  **effective不能用去掉**
+	2. **Task-apdated不合适，因为暗含自适应，引导比较合适**
+	3. **Mutli-Task前缀能不能加，会不会有歧义**
 	4. 保持一致，比如模块名都落到名词上
 	5. Prechange不合适
 	6. integrate 应该是integration
