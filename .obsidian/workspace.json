@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep learning/论文.md",
+                "file": "开发/算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论文"
+              "title": "算法"
             }
           }
         ]
@@ -163,12 +163,18 @@
   },
   "active": "e624db8179d2892c",
   "lastOpenFiles": [
-    "Deep learning/LSSM.md",
+    "开发/SpringSecurity.md",
+    "开发/算法.md",
+    "开发/Spring原理.md",
+    "开发/Mysql.md",
+    "开发/JAVA笔记.md",
+    "开发/八股.md",
+    "工作/数据检索.md",
     "Deep learning/论文.md",
+    "Deep learning/LSSM.md",
     "Deep learning/Vmamba配置.md",
     "Deep learning/Mamba原理.md",
     "Pasted image 20250309091835.png",
-    "工作/数据检索.md",
     "工作",
     "Deep learning/Code.md",
     "Deep learning/异源.md",
@@ -186,12 +192,7 @@
     "计算机",
     "日常/邮件.md",
     "日常/案板.md",
-    "日常/复试.md",
     "日常",
-    "开发/Spring原理.md",
-    "开发/八股.md",
-    "开发/SpringSecurity.md",
-    "开发/Mysql.md",
     "开发",
     "ZZH"
   ]
