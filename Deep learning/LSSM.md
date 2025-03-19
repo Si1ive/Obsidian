@@ -136,7 +136,7 @@ E. Other Network Details
 46. 106081 1486 v15 2 2 15 掉点
 47. 106083 1577 v15 2 2 10 分类器kernel 7 影响不大
 48.  也就是说 kernel=3有大好处
-49. 10614 所有kernel都改成了3 包括aff
+49. 10614 分类器 conv_small aff kernel都改成了3
 接下来的工作：
 50.  Adam修改成AdamW 引入5e-4
 51. 目前去掉AB边界增强效果会变差，第三层变多会变差
