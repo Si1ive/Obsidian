@@ -136,7 +136,7 @@ E. Other Network Details
 46. 106081 1486 v15 2 2 15 掉点
 47. 106083 1577 v15 2 2 10 分类器kernel 7 影响不大
 48.  也就是说 kernel=3有大好处
-49. 106142 1485 分类器 conv_small aff kernel都改成了3 把affh
+49. 106142 1485 分类器 conv_small aff kernel都改成了3 把aff换成3 掉点  别人的结构就不动
 50. 106143 1486 分类器 conv_small kernel改成了3 2 2 8  掉点
 51. 106144 1577 分类器 conv_small kernel改成了3 2 4 10 掉点
 52. 106220 1486 aff为1 conv_small7 1    2 2 10
