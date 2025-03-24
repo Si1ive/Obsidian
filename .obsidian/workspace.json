@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep learning/论文.md",
+                "file": "Deep learning/LSSM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论文"
+              "title": "LSSM"
             }
           }
         ]
@@ -163,8 +163,9 @@
   },
   "active": "e624db8179d2892c",
   "lastOpenFiles": [
-    "Deep learning/LSSM.md",
+    "Deep learning/边界增强.md",
     "Deep learning/论文.md",
+    "Deep learning/LSSM.md",
     "开发/算法.md",
     "开发/SpringSecurity.md",
     "开发/Spring原理.md",
@@ -185,7 +186,6 @@
     "Deep learning/任务.md",
     "Deep learning/实验.md",
     "Deep learning/环境配置.md",
-    "Deep learning/边界增强.md",
     "计算机/指令.md",
     "Deep learning/差异关联.md",
     "conflict-files-obsidian-git.md",
