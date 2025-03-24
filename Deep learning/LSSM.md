@@ -140,7 +140,7 @@ E. Other Network Details
 50. 106143 1486 分类器 conv_small kernel改成了3 2 2 8  掉点
 51. 106144 1577 分类器 conv_small kernel改成了3 2 4 10 掉点
 52. 106220 1486 aff为1 conv_small7 1    2 2 10  暴跌
-53. 106378 1485 
+53. 106378 1485 aff1 其他均为3 1e-3
 接下来的工作：
 54.  Adam修改成AdamW 引入5e-4
 55. 目前去掉AB边界增强效果会变差，第三层变多会变差
