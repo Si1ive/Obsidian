@@ -69,7 +69,7 @@ E. Other Network Details
 
 1 0 0 一个分支共享权重
 2 0 0 两个分支
-3 0 0 CNN
+3 0 0 CNN共享分支
 
 0 0 1 直接扣掉
 0 0 2 留一阶跟后面的mamba
