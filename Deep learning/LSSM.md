@@ -139,7 +139,7 @@ E. Other Network Details
 49. 106142 1485 分类器 conv_small aff kernel都改成了3 把aff换成3 掉点  别人的结构就不动
 50. 106143 1486 分类器 conv_small kernel改成了3 2 2 8  掉点
 51. 106144 1577 分类器 conv_small kernel改成了3 2 4 10 掉点
-52. 106220 1486 aff为1 conv_small7 1    2 2 10 
+52. 106220 1486 aff为1 conv_small7 1    2 2 10  暴跌
 接下来的工作：
 53.  Adam修改成AdamW 引入5e-4
 54. 目前去掉AB边界增强效果会变差，第三层变多会变差
