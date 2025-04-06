@@ -155,6 +155,7 @@ E. Other Network Details
 64. 106716 1486 v17 val改test 弄错了
 65. 106817 1485 v17 把edge里面的两个fuse改成原来的了
 66. 106873 1486 v17 val改test
+67. 
 
 v15
 106080 9095
