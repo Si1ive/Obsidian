@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发/Nacos.md",
+                "file": "开发/短链接.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nacos"
+              "title": "短链接"
             }
           }
         ]
@@ -163,13 +163,14 @@
   },
   "active": "e624db8179d2892c",
   "lastOpenFiles": [
-    "开发/Redis.md",
-    "开发/Nacos.md",
+    "开发/八股.md",
     "开发/Mysql.md",
+    "开发/算法.md",
+    "开发/Nacos.md",
+    "开发/短链接.md",
+    "开发/Redis.md",
     "开发/Spring原理.md",
     "开发/JAVA笔记.md",
-    "开发/算法.md",
-    "开发/八股.md",
     "工作/数据检索.md",
     "开发/SpringSecurity.md",
     "Deep learning/LSSM.md",
@@ -190,7 +191,6 @@
     "Deep learning/局部.md",
     "Deep learning/任务.md",
     "Deep learning/环境配置.md",
-    "计算机/指令.md",
     "计算机",
     "日常",
     "开发",
