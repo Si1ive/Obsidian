@@ -1,1 +1,1 @@
-cmd startup.cmd -m standalone
+startup.cmd -m standalone
