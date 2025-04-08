@@ -110,7 +110,8 @@ E. Other Network Details
 
 编码器：
 1. 全孪生
-2. 
+2. cnn孪生 mamba孪生 mlp非孪生
+3. cnn孪生 
 
 0 1 0 俩都去掉
 0 2 0 留channel
