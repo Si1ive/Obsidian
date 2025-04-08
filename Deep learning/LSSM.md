@@ -114,6 +114,9 @@ E. Other Network Details
 3. cnn孪生 mamba非孪生 mlp非孪生
 4. 全非孪生
 
+解码器
+
+
 0 1 0 俩都去掉
 0 2 0 留channel
 0 3 0 留spatial
