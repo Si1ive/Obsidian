@@ -107,7 +107,10 @@ E. Other Network Details
 	1. 编码器 (原始 共享权重，直接两个分支 ) 三组
 	2. 解码器 双vss channel spatial (全留 去掉俩 留channel 留spatial)四组
 	3. 增强 一阶 二阶 Mamba ( 原始 全无 留一阶 留二阶 都不留)五组
-0 0 0 完全体
+
+编码器：
+1. 全孪生
+2. 
 
 0 1 0 俩都去掉
 0 2 0 留channel
