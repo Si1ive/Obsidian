@@ -110,13 +110,12 @@ E. Other Network Details
 
 版本命名
 Siamese 取 0  indepence 取1
-编码器：en0_0_1 对比一个
-en0是
-en1全孪生
-1. cnn孪生 mamba非孪生 mlp非孪生
-2. 全非孪生
+编码器：en0_0  en0_1 en1_1
+1. 全孪生
+2. cnn孪生 mlp非孪生
+3. 全非孪生
+解码器 de
 
-解码器
 
 
 0 1 0 俩都去掉
