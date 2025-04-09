@@ -113,16 +113,16 @@ Siamese 取 0  indepence 取1
 编码器：en0_0  en1_1 
 1. 全孪生 en_sicnn_simlp
 2. 全非孪生 en_incnn_inmlp
-	1. 编码器跑一个完整的 en_sicnn_inmlp    de1_1 di1_1
+	1. 编码器跑一个完整的 en_sicnn_inmlp   de_ca_sa 
 解码器 de0_0 de0_1 de1_0
 3. 只留   de
-4. 留空间  de_catt
-5. 留通道 de_catt_
+4. 留空间  de_sa
+5. 留通道 de_ca
 差异 di di0_0 di0_1 di1_0
-6. 去1阶
-7. 去2阶
-8. 全去了
-9. 把mamba拿掉
+6. 去1阶 di_so_m
+7. 去2阶 di_fo_m
+8. 全去了 di_M
+9. 把mamba拿掉 di_so_fo_nom
 
 
 
