@@ -109,10 +109,10 @@ E. Other Network Details
 	3. 增强 一阶 二阶 Mamba ( 原始 全无 留一阶 留二阶 都不留)五组
 
 编码器：
-1. 全孪生
-2. cnn孪生 mamba孪生 mlp非孪生
-3. cnn孪生 mamba非孪生 mlp非孪生
-4. 全非孪生
+en0是
+en1全孪生
+1. cnn孪生 mamba非孪生 mlp非孪生
+2. 全非孪生
 
 解码器
 
