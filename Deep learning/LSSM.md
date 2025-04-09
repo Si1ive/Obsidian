@@ -118,6 +118,7 @@ Siamese 取 0  indepence 取1
 4. 留空间
 5. 留通道
 差异 di
+6. 
 
 
 
