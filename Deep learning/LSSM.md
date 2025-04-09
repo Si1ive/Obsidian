@@ -109,8 +109,8 @@ E. Other Network Details
 	3. 增强 一阶 二阶 Mamba ( 原始 全无 留一阶 留二阶 都不留)五组
 
 版本命名
-Siamese 取 0  indepence
-编码器：
+Siamese 取 0  indepence 取1
+编码器：en0_0_1 对比一个
 en0是
 en1全孪生
 1. cnn孪生 mamba非孪生 mlp非孪生
