@@ -113,7 +113,7 @@ Siamese   indepence
 编码器：
 1. 全孪生 en_sicnn_simlp
 2. 全非孪生 en_incnn_inmlp
-	1. 编码器跑一个完整的 en_sicnn_inmlp   de_ca_sa  di_so_fo_m
+	1. 编码器跑一个完整的 en_sicnn_inmlp   de_ca_sa  di_so_fo_m  
 解码器 
 3. 只留   de
 4. 留空间  de_sa
