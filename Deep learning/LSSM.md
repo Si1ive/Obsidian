@@ -109,7 +109,7 @@ E. Other Network Details
 	3. 增强 一阶 二阶 Mamba ( 原始 全无 留一阶 留二阶 都不留)五组
 
 版本命名
-
+Siamese 取 0  indepence
 编码器：
 en0是
 en1全孪生
