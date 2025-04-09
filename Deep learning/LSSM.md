@@ -111,7 +111,7 @@ E. Other Network Details
 版本命名
 Siamese 取 0  indepence 取1
 编码器：en0_0  en1_1 
-1. 全孪生
+1. 全孪生 
 2. 全非孪生
 	1. 编码器跑一个完整的 en0_1 de1_1 di1_1
 解码器 de0_0 de0_1 de1_0
