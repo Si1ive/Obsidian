@@ -121,8 +121,8 @@ Siamese 取 0  indepence 取1
 差异 di di0_0 di0_1 di1_0
 6. 去1阶 di_so_m
 7. 去2阶 di_fo_m
-8. 全去了 di_M
-9. 把mamba拿掉 di_so_fo_nom
+8. 全去了 di_m
+9. 把mamba拿掉 di_so_fo
 
 
 
