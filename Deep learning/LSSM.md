@@ -108,6 +108,8 @@ E. Other Network Details
 	2. 解码器 双vss channel spatial (全留 去掉俩 留channel 留spatial)四组
 	3. 增强 一阶 二阶 Mamba ( 原始 全无 留一阶 留二阶 都不留)五组
 
+版本命名
+
 编码器：
 en0是
 en1全孪生
