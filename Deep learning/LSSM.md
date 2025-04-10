@@ -119,10 +119,10 @@ Siamese   indepence
 5. 留空间  de_sa
 6. 留通道 de_ca
 差异
-7. 去1阶 di_so_m
-8. 去2阶 di_fo_m
-9. 全去了 di_m
-10. 把mamba拿掉 di_so_fo
+7. 去1阶 di_so_fm
+8. 去2阶 di_fo_fm
+9. 全去了 di_fm
+10. 把f拿掉 di_so_fo_m
 
 
 # BUG 
