@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep learning/LSSM.md",
+                "file": "Deep learning/Vmamba配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LSSM"
+              "title": "Vmamba配置"
             }
           }
         ]
@@ -164,8 +164,8 @@
   "active": "e624db8179d2892c",
   "lastOpenFiles": [
     "Deep learning/Mamba原理.md",
-    "Deep learning/Code.md",
     "Deep learning/LSSM.md",
+    "Deep learning/Code.md",
     "开发/短链接.md",
     "开发/JAVA笔记.md",
     "Deep learning/Vmamba配置.md",
