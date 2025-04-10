@@ -111,7 +111,7 @@ E. Other Network Details
 版本命名
 Siamese   indepence 
 编码器：
-1. 编码器跑一个完整的 en_sicnn_inmlp   de_ca_sa  di_so_fo_m   di_so_fo_fm  
+1. 编码器跑一个完整的 en_sicnn_inmlp   de_ca_sa  di_so_fo_fm  
 2. 全孪生 en_sicnn_simlp
 3. 全非孪生 en_incnn_inmlp
 解码器 
@@ -119,10 +119,10 @@ Siamese   indepence
 5. 留空间  de_sa
 6. 留通道 de_ca
 差异
-7. 去1阶 di_so_m di_so_fm
-8. 去2阶 di_fo_m di_fo_fm
-9. 全去了 di_m di_fm
-10. 把f拿掉 di_so_fo di_so_fo_m
+7. 去1阶 di_so_fm
+8. 去2阶 di_fo_fm
+9. 全去了 di_fm
+10. 把f拿掉 di_so_fo_m
 
 
 # BUG 
